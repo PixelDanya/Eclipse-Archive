@@ -8,6 +8,7 @@ services:
     container_name: eclipsearchive_app
     working_dir: /var/www
     volumes:
+      - env_data:/var/www/.env
       - ../:/var/www
     ports:
       - "8000:80"
