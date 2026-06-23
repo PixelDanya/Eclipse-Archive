@@ -4,9 +4,8 @@
         <span>© 2026 Eclipse Archive</span>
         <span class="footer-divider"></span>
         <span>
-            Авторы:
+            Автор:
             <strong>Бойко Даниил</strong>,
-            <strong>Прудников Александр</strong>
         </span>
         <div class="footer-links">
             <a href="https://telegram.org/" target="_blank">

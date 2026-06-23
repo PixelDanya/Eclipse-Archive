@@ -31,14 +31,10 @@
                 </div>
             </div>
             <div class="about-card">
-                <h3>Авторы</h3>
+                <h3>Автор</h3>
                 <div class="author">
                     <span class="author-name">Бойко Даниил</span>
                     <span class="author-role">Backend и Frontend</span>
-                </div>
-                <div class="author">
-                    <span class="author-name">Прудников Александр</span>
-                    <span class="author-role">Frontend</span>
                 </div>
             </div>
         </div>
